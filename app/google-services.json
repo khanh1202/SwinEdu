@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "793493905996",
+    "firebase_url": "https://brilliant-brand-183916.firebaseio.com",
+    "project_id": "brilliant-brand-183916",
+    "storage_bucket": "brilliant-brand-183916.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793493905996:android:d753c0bcc2f5dd26",
+        "android_client_info": {
+          "package_name": "com.example.mac.swinedu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793493905996-kqls88qr95nmkpscl1emt8pseejtj2ql.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "793493905996-oq20017dh147hol87badteheomg87i60.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mac.swinedu",
+            "certificate_hash": "054ea29599d54adf271066d72db4d9cb07c19b15"
+          }
+        },
+        {
+          "client_id": "793493905996-nomgsdgghvkb4qpmuef0lsg84icq7jhi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGQwoLW5-ImWrnddxkZNLsH1IYd3L7UuQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793493905996-kqls88qr95nmkpscl1emt8pseejtj2ql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

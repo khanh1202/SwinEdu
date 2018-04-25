@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.android/build-cache/71dc1818833a6fac9079f73ce146622893b2a85d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="73c80b05a390e8319d1ef7a236739cd610c8f774">
+        <dex dex="/Users/mac/Downloads/SwinEdu/app/build/intermediates/pre-dexed/release/classes_bd4c535062c84c0cfaa80f495a1116fadf1fc4a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.android/build-cache/6d85433af506ae0228587697d34a177d99082dfc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bd6a3b6e3c7c584a47479070fb9292a6c7468657">
+        <dex dex="/Users/mac/Downloads/SwinEdu/app/build/intermediates/pre-dexed/release/classes_e6bd3ef3c625b0a2be55a4b738b3f2cb66cdd498.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Downloads/SwinEdu/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/mac/Downloads/SwinEdu/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d74fb2193a5a9340fdf3f2ff0987a3c445f5b055/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.android/build-cache/735ed0b8261c5c1fdef7f0242b61dfbfac643cba/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c2cadea4d8a1a5b5c4e5f0dc99a99a43774f5e6e">
+        <dex dex="/Users/mac/Downloads/SwinEdu/app/build/intermediates/pre-dexed/release/classes_a1039e1febe564230cf7405286e8c6ef1d8a4a66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.android/build-cache/2bbdac9596d22a61afe202a4d5ffd3c28d9825b9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5f519b8c692038a47ee404b6ea6b847f6402000c">
+        <dex dex="/Users/mac/Downloads/SwinEdu/app/build/intermediates/pre-dexed/release/classes_bf7df951f336914d8b64069646cdb42132579b34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.android/build-cache/7be804dba09fbd81335557ed512e34c5fde2a6a8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2d45b277afdf55bcfdc005c03c0c2f1733aaa1b0">
+        <dex dex="/Users/mac/Downloads/SwinEdu/app/build/intermediates/pre-dexed/release/classes_0deae734c52e6e2f671f6aeb026daecbae5efc91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.android/build-cache/ac5348a1b6b60125c8ab6ca92aaba821e5bc9581/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e4efed89c18cda5bbc2309efe84bb4b67e1ef239">
+        <dex dex="/Users/mac/Downloads/SwinEdu/app/build/intermediates/pre-dexed/release/classes_02392d03b352ef1be0d6a915aadecd4e82beaef4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/.android/build-cache/8cc8674f0cb1fe852fa302819b967e4d3f628f0f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="49cfe618ead4198c63130e6f6c82e1dd213af3b3">
+        <dex dex="/Users/mac/Downloads/SwinEdu/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_065e0b814bb1fa36659e1bb75a0c223797fc4a41/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.android/build-cache/93664fc5305a00efa2bbc77d72f5bfdc3a5167c3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="782d63e5456a49596ef322036691e25c60de3b83">
+        <dex dex="/Users/mac/Downloads/SwinEdu/app/build/intermediates/pre-dexed/release/classes_4d300a44cea02c3660d35e6eb617c1a4ec94ef96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.android/build-cache/3fca4a0d746982e64ceac68d68c8a5505c90e872/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/mac/Downloads/SwinEdu/app/build/intermediates/pre-dexed/release/classes_c7ede3aebdebfb3473255032c757f07eff185445.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.android/build-cache/8cc8674f0cb1fe852fa302819b967e4d3f628f0f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="49cfe618ead4198c63130e6f6c82e1dd213af3b3">
+        <dex dex="/Users/mac/Downloads/SwinEdu/app/build/intermediates/pre-dexed/release/classes_065e0b814bb1fa36659e1bb75a0c223797fc4a41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.android/build-cache/7f7f2d9bdf837102afc86edcb0fee525f1e83f62/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="20d6aa9a18ea9833cd2bee95dff7cd303cdb80e4">
+        <dex dex="/Users/mac/Downloads/SwinEdu/app/build/intermediates/pre-dexed/release/classes_700e613a59dda30783b55c891b083d6ada591bc7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.android/build-cache/14725421aceca5e013fec29cc16b6b0772f8c306/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="643a2fd3bd06c44be5d20efc0ba4ca02036d2c8a">
+        <dex dex="/Users/mac/Downloads/SwinEdu/app/build/intermediates/pre-dexed/release/classes_1bd7548e9e0e9ed15a2e8caa25138f8b40f6e4f4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Downloads/SwinEdu/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="dbc2d24114cdf2b6682ec8a3a641760e3d03fc4e">
+        <dex dex="/Users/mac/Downloads/SwinEdu/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f1e5f4a611a79ee7c3d3d79828a95108a03286f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.android/build-cache/008deb210256d4e3b2cdaeaab54e609305522967/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6e6b94b72d7912a627fb1629c310b2bca9261f06">
+        <dex dex="/Users/mac/Downloads/SwinEdu/app/build/intermediates/pre-dexed/release/classes_fdad10e6d358d32d0e9653a384b76d20c6fe6c2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.android/build-cache/63aa70612a604cb797234f77c6fd5f9f03384d05/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/mac/Downloads/SwinEdu/app/build/intermediates/pre-dexed/release/classes_2947d7fc70cb6416b82efa526ff88399d3f6af0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.android/build-cache/68908918b5e309d76c12863cc59254317ff56b4b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/mac/Downloads/SwinEdu/app/build/intermediates/pre-dexed/release/classes_ac10ec88c92d0abc739738a7d5d781af5d5b5eb3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.android/build-cache/81a4b304157690247a4810a92d5a3917b828a038/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bed98ea7af8c5c4202820875e856dd3eb296e22d">
+        <dex dex="/Users/mac/Downloads/SwinEdu/app/build/intermediates/pre-dexed/release/classes_e24157c6a15f27e96cba9ffbea1bfe945f3ddb19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.android/build-cache/609ea6d33140fe280c2f4c41df13d12e8cc274fa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="52339832d252da4328c5ffcacbc205268346362a">
+        <dex dex="/Users/mac/Downloads/SwinEdu/app/build/intermediates/pre-dexed/release/classes_f39505bbddc52ab6c6089e0ae23a7bfdc14cef26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.android/build-cache/22a0ea072499f0983441f13f6815eccd74968bd1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8040d53ecd4bd895360eafdc25e1c1cc9479e6aa">
+        <dex dex="/Users/mac/Downloads/SwinEdu/app/build/intermediates/pre-dexed/release/classes_72a166a9f243a8f3632b8632080cdd8195d62490.jar" />
+    </item>
+
+</items>
